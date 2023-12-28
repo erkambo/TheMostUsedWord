@@ -47,10 +47,6 @@
         "ranges": "cpp",
         "span": "cpp",
         "algorithm": "cpp",
-        "optional": "cpp",
-        "vector": "cpp",
-        "map": "cpp",
-        "xtree": "cpp",
-        "set": "cpp"
+        "optional": "cpp"
     }
 }
